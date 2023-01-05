@@ -6,6 +6,7 @@ int main (void){
 
   printf("Welcome to C!"); //output
   printf("This is my first program"); //output
+  printf("I love c programming!")
 
   return 0 ;
 }
